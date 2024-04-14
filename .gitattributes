@@ -1,2 +1,10 @@
 models/biobert-large-cased-v1.1 filter=lfs diff=lfs merge=lfs -text
 models/biobert-v1.1 filter=lfs diff=lfs merge=lfs -text
+models/biobert-v1.1-20240414 filter=lfs diff=lfs merge=lfs -text
+models/biobert-v1.1-20240414/config.json filter=lfs diff=lfs merge=lfs -text
+models/biobert-v1.1-20240414/model.safetensors filter=lfs diff=lfs merge=lfs -text
+models/biobert-v1.1-20240414/special_tokens_map.json filter=lfs diff=lfs merge=lfs -text
+models/biobert-v1.1-20240414/tokenizer.json filter=lfs diff=lfs merge=lfs -text
+models/biobert-v1.1-20240414/tokenizer_config.json filter=lfs diff=lfs merge=lfs -text
+models/biobert-v1.1-20240414/training_args.bin filter=lfs diff=lfs merge=lfs -text
+models/biobert-v1.1-20240414/vocab.txt filter=lfs diff=lfs merge=lfs -text
