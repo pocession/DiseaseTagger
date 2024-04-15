@@ -1,0 +1,5 @@
+entity_group,score,word,start,end
+Disease,0.9986774,GBS,19,22
+Disease,0.99926585,GBS,103,106
+Disease,0.96689093,diarrhea or,122,133
+Disease,0.88061476,respiratory illness,134,153

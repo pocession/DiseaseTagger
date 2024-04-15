@@ -1,2 +1,5 @@
 # models
 models/*
+
+# Mac files
+*.DS_Store
