@@ -32,7 +32,7 @@ To download the model:
 
 ```
 cd Python
-python Download_model.py dmis-lab/biobert-v1.1 --save_directory ../models --show_parameter False --show_layer0 False
+python Download_model.py dmis-lab/biobert-v1.1 --save_directory ../models//biobert-v1.1-20240414 --show_parameter False --show_layer0 False
 ```
 
 ## Dataset
